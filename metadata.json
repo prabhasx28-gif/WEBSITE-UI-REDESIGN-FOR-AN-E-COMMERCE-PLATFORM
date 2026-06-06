@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce UI Redesign",
+  "description": "An interactive, responsive e-commerce platform showcasing heuristic evaluations, usability testing, and Poppins-based modern style guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
